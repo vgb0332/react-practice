@@ -1,0 +1,19 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "react-examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgb0332/react-practice.git"
+  },
+  "author": "mjung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vgb0332/react-practice/issues"
+  },
+  "homepage": "https://github.com/vgb0332/react-practice#readme"
+}
