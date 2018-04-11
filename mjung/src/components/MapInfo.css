@@ -1,0 +1,10 @@
+.MapInfo ul li {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 2vw;
+  border-bottom: 1px solid black;
+}
+
+.MapInfo.title {
+  font-size: 2vw;
+}
