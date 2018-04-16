@@ -1,0 +1,11 @@
+.wrapper{
+  position: fixed;
+  width: 100%;
+  /* height: 3vw; */
+  background: #ffffff;
+  text-align: center;
+}
+
+.wrapper span {
+  font-size: 2vw;
+}
